@@ -1,5 +1,5 @@
-# Portfolio-Template
-Welcome to my Portfolio/Resume website that showcases me as a Programmer, Geek, and Developer.
+### My-Portfolio
+Hi there! I'm Ganesh and Welcome to my Portfolio/Resume website that showcases me as a Programmer, Geek, and Developer.
 
 ### Highlights
 1. Setup is very easy and I got a portfolio template of my own for free.
